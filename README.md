@@ -1,6 +1,5 @@
 # staff
 
-Recovery
+arhive, nonbraking, fake prefix
 
-bc.zip
-Standard strong password + Backup
+Standard strong + Backup
